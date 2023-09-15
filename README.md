@@ -11,16 +11,15 @@ Knowledge Graphs can link diverse sets of data and facts, reveal new relationshi
 Post-translational modifications (PTMs), particularly the oxidative modifications at cysteine residues, can have profound effects on the activity, stability, and interaction of proteins. Understanding oxidative modifications at cysteine residues in crucial mitochondrial ADP/ATP carrier proteins could provide key insights into disrupted cellular energy regulation, affecting conditions like cardiovascular and metabolic diseases. The current knowledge of PTM identification of proteins are mainly based on experimental technique like mass spectrometry and are usually studied in isolation. There's a need for a comprehensive view that connects these PTMs to functional outcomes in the cellular context. 
 
 ### Project Walkthrough:
-
-1. Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus, drug target proteins and underlying molecular mechanism.
-2. Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library.
-3. Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences).
-4. Explore about homogeneous Graph Neural Network with provided tutorial-1.
-5. Explore heterogeneous Graph Neural Networks with provided tutorial-2.
-6. Develop the graph embedding for the heterogeneous knowledge graph.
-7. Prepare the training, validation, and testing by masking the nodes or edges.
-8. Train the model with tuning hyperparameters and interpret the performance.
-9. Implement the model for link prediction and analyze it with biomedical findings.
+- Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus, drug target proteins and underlying molecular mechanism.
+- Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library.
+- Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences).
+- Explore about homogeneous Graph Neural Network with provided tutorial-1.
+- Explore heterogeneous Graph Neural Networks with provided tutorial-2.
+- Develop the graph embedding for the heterogeneous knowledge graph.
+- Prepare the training, validation, and testing by masking the nodes or edges.
+- Train the model with tuning hyperparameters and interpret the performance.
+- Implement the model for link prediction and analyze it with biomedical findings.
 
 
 ### Educational Goal:
