@@ -27,7 +27,7 @@ This project offers the wonderful opportunity to learn and build cutting-edge ma
 
 ### Scientific Goal:
 
-Post-translational modifications (PTMs), particularly the oxidative modifications at cysteine residues, can have profound effects on the activity, stability, and interaction of proteins. Understanding oxidative modifications at cysteine residues in crucial mitochondrial ADP/ATP carrier proteins could provide key insights into disrupted cellular energy regulation, affecting conditions like cardiovascular and metabolic diseases. The current knowledge of PTM identification of proteins are mainly based on experimental technique like mass spectrometry and are usually studied in isolation. There's a need for a comprehensive view that connects these PTMs to functional outcomes in the cellular context. 
+Understanding of Oxidative modifications at cysteine residues in mitochondrial ADP/ATP carrier proteins which has potential to significantly impact cellular energy balance, shedding light on conditions such as cardiovascular and metabolic diseases. While current methods like mass spectrometry identify these Post-Translational Modifications (PTMs) in isolation, a data science based holistic approach helps to fully understand their role and implications in cellular function. 
 
 
 ### References
