@@ -12,15 +12,15 @@ Post-translational modifications (PTMs), particularly the oxidative modification
 
 ### Project Walkthrough:
 
-Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus, drug target proteins and underlying molecular mechanism.
-Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library.
-Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences).
-Explore about homogeneous Graph Neural Network with provided tutorial-1.
-Explore heterogeneous Graph Neural Networks with provided tutorial-2.
-Develop the graph embedding for the heterogeneous knowledge graph.
-Prepare the training, validation, and testing by masking the nodes or edges.
-Train the model with tuning hyperparameters and interpret the performance.
-Implement the model for link prediction and analyze it with biomedical findings.
+- Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus, drug target proteins and underlying molecular mechanism.
+- Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library.
+- Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences).
+- Explore about homogeneous Graph Neural Network with provided tutorial-1.
+- Explore heterogeneous Graph Neural Networks with provided tutorial-2.
+= Develop the graph embedding for the heterogeneous knowledge graph.
+- Prepare the training, validation, and testing by masking the nodes or edges.
+- Train the model with tuning hyperparameters and interpret the performance.
+- Implement the model for link prediction and analyze it with biomedical findings.
 
 
 ### Educational Goal:
