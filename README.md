@@ -11,11 +11,10 @@ Knowledge Graphs can link diverse sets of data and facts, reveal new relationshi
 Post-translational modifications (PTMs), particularly the oxidative modifications at cysteine residues, can have profound effects on the activity, stability, and interaction of proteins. Understanding oxidative modifications at cysteine residues in crucial mitochondrial ADP/ATP carrier proteins could provide key insights into disrupted cellular energy regulation, affecting conditions like cardiovascular and metabolic diseases. The current knowledge of PTM identification of proteins are mainly based on experimental technique like mass spectrometry and are usually studied in isolation. There's a need for a comprehensive view that connects these PTMs to functional outcomes in the cellular context. 
 
 ### Project Walkthrough:
-- Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus, drug target proteins and underlying molecular mechanism.
+- Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Proteins,Protein-Protein Interaction (PPI), PTM Types, Modified Residues, Organism and underlying molecular mechanism (Pathways).
 - Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library.
 - Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences).
-- Explore about homogeneous Graph Neural Network with provided tutorial-1.
-- Explore heterogeneous Graph Neural Networks with provided tutorial-2.
+- Explore heterogeneous Graph Neural Networks (GNN), Heterogeneous Graph Transformer (HGT) models .
 - Develop the graph embedding for the heterogeneous knowledge graph.
 - Prepare the training, validation, and testing by masking the nodes or edges.
 - Train the model with tuning hyperparameters and interpret the performance.
@@ -28,7 +27,8 @@ This project offers the wonderful opportunity to learn and build cutting-edge ma
 
 ### Scientific Goal:
 
-Understanding the role of drug in Cardiovascular Disease through a molecular mechanism and adverse effects associated drug target proteins is the core of the scientific goal of the project. Prediction of the possible links between Drug and Drug target proteins/ Drug and Diseases opens a new research horizon. Newly predicted associations could provide further insight into the molecular mechanism and disease pathogenesis.
+Post-translational modifications (PTMs), particularly the oxidative modifications at cysteine residues, can have profound effects on the activity, stability, and interaction of proteins. Understanding oxidative modifications at cysteine residues in crucial mitochondrial ADP/ATP carrier proteins could provide key insights into disrupted cellular energy regulation, affecting conditions like cardiovascular and metabolic diseases. The current knowledge of PTM identification of proteins are mainly based on experimental technique like mass spectrometry and are usually studied in isolation. There's a need for a comprehensive view that connects these PTMs to functional outcomes in the cellular context. 
+
 
 ### References
 
